@@ -49,7 +49,7 @@ mvn package
 ```
 mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.app.App"
 ```
-And put this link in your browser: 
+And put this link in your browser: http://localhost:4567/exp?value=2
 
 - [Link to the deploy]()
 
