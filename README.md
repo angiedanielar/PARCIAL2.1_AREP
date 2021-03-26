@@ -175,7 +175,7 @@ mvn javadoc:javadoc
 Lambda:
 
 
-![Imagen 36](resources/images/12.png)
+![Imagen 36](resources/images/11.png)
 
 
 API-Gateway:
